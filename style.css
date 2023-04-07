@@ -2,12 +2,13 @@ body {
 
     margin: 0 auto;
     max-width: 50em;
-    background: #eee;
+    background: #0a0b28;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     padding: 4em 1em;
-    color: #555;
+    color: #dfe0f9;
+    text-align: center;
 }
 
 a { color: #e81c4f;}
@@ -28,7 +29,7 @@ h2 {margin-top: 1em;
 h1,
 h2,
 strong { 
-   color: #333;}
+   color: #dfe0f9;}
 
 
 main {width: 600px;}
@@ -47,3 +48,4 @@ div {padding: 20px;
 
 .column {display: inline-block;
     width: calc(33.33% - 40px - 2px);}
+
